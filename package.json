@@ -10,7 +10,7 @@
     "build:all": "npm run build:css && npm run build:js && npm run build:icons",
     "lint:js": "eslint  --ext .es6 .",
     "update": "git submodule update --init --recursive && git fetch --all --tags --prune && npm run build:all",
-    "test": "npm run && npm run lint:js",
+    "test": "npm run lint:js",
     "postinstall": "npm run update"
   },
   "repository": {
