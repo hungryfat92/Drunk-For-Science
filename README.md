@@ -1,6 +1,8 @@
 # :beer: Drunk-For-Science :beer:
 
 [![Join the chat at https://gitter.im/shgysk8zer0/Drunk-For-Science](https://badges.gitter.im/shgysk8zer0/Drunk-For-Science.svg)](https://gitter.im/shgysk8zer0/Drunk-For-Science?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/shgysk8zer0/Drunk-For-Science.svg?branch=master)](https://travis-ci.org/shgysk8zer0/Drunk-For-Science)
+
 [![Drunk for Science logo](./images/appicons/256.png)](http://drunkforscience.chriszuber.com)
 
 A public experiment and study on the effects of alcohol
