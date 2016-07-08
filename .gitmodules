@@ -13,3 +13,12 @@
 [submodule "scripts/std-js"]
 	path = scripts/std-js
 	url = git://github.com/shgysk8zer0/std-js.git
+[submodule "classes/shgysk8zer0/core_api"]
+	path = classes/shgysk8zer0/core_api
+	url = git://github.com/shgysk8zer0/core_api.git
+[submodule "classes/shgysk8zer0/core"]
+	path = classes/shgysk8zer0/core
+	url = git://github.com/shgysk8zer0/core.git
+[submodule "classes/shgysk8zer0/dom"]
+	path = classes/shgysk8zer0/dom
+	url = git://github.com/shgysk8zer0/dom.git
